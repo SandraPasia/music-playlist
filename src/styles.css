@@ -1,0 +1,56 @@
+section { 
+    background-color: rgba(151, 7, 7, 0.801);
+    width: 700px;
+    height: 940px;
+    padding-top: 40px;
+}
+
+h1 {
+    font-style: Georgia Pro Cond Semibold;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    justify-content: left;
+    padding-left: 140px;
+    margin-top: 0%;
+    font-size: large;
+}
+
+
+h3 {
+    justify-content: left;
+    padding-left: 140px;
+    margin-top: 0%;
+    font-size: large;
+}
+
+h4 {
+    justify-content: left;
+    padding-left: 170px;
+    margin-top: 0%;
+    font-size: large;
+}
+
+section img[src="/music.jpg"] {
+    display: block;
+    margin-left: 100px;
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+section img[src="/music2.webp"] {
+    display: block;
+    margin-left: 100px;
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+section img[src="/music3.webp"] {
+    display: block;
+    margin-left: 100px;
+    width: 200px;
+    padding-bottom: 10px;
+}
